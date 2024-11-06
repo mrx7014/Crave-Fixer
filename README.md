@@ -12,5 +12,5 @@
 >
 
 ```sh
-cd /crave-devspaces;curl https://raw.githubusercontent.com/mrx7014/Crave-Fixer/master/sources.list >> sources.list;sudo mv /etc/apt/sources.list /etc/apt/sources.list.old;sudo cp sources.list /etc/apt; sudo apt-get update -y;sudo apt-get upgrade -y
+cd /crave-devspaces;git clone https://github.com/mrx7014/Crave-Fixer;cd Crave-Fixer;sudo mv /etc/apt/sources.list /etc/apt/sources.list.old;sudo cp /crave-devspaces/Crave-Fixer/sources.list /etc/apt; sudo apt-get update -y;sudo apt-get upgrade -y
 ```
