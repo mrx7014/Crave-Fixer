@@ -6,9 +6,9 @@
 
 ###Update Packages
 
-- Use this `sources.list` to get all packages that you will need in future
+- Use this `sources.list` to get all packages that working on ubuntu
 >[!NOTE]
->Some package like `qemu` npt availabel with default crave `sources.list` file
+>Some package like `qemu` not available with default crave `sources.list` file, So use this
 >
 
 ```sh
