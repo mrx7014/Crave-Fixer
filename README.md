@@ -1,10 +1,10 @@
-#Crave Fixer
+# Crave Fixer
 
-###This repo will always updating with fixes when i find any issues with this server 
+### This repo will always updating with fixes when i find any issues with this server 
 
-<br />
+<hr>
 
-###Update Packages
+### Update Packages
 
 - Use this `sources.list` to get all packages that working on ubuntu
 >[!NOTE]
