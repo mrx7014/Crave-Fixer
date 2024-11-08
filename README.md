@@ -14,3 +14,6 @@
 ```sh
 cd /crave-devspaces;git clone https://github.com/mrx7014/Crave-Fixer;cd Crave-Fixer;sudo mv /etc/apt/sources.list /etc/apt/sources.list.old;sudo cp /crave-devspaces/Crave-Fixer/sources.list /etc/apt; sudo apt-get update -y;sudo apt-get upgrade -y
 ```
+>[!IMPORTANT]
+>You must do this everytime you stop the session, so you should use `tmate` to avoid this thing.
+>
